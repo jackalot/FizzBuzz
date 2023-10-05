@@ -1,7 +1,12 @@
 
 public class Main {
- public static void main(String[] args)
- {
-	 
- }
+
+	public static void main(String[] args)
+	{
+		String newString = "";
+		for(int i = 1; i < 100; i++)
+		{
+			
+		}
+	}
 }
